@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.5.8 <0.6.0;
 
-import './Proxy.sol';
-import './UpgradeabilityStorage.sol';
+import 'https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/Proxy.sol';
+import 'https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/UpgradeabilityStorage.sol';
 
 /**
  * @title UpgradeabilityProxy
