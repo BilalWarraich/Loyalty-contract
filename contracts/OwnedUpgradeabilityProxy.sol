@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.5.8 <0.6.0;
 
-import 'https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/UpgradeabilityProxy.sol';
-import 'https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/UpgradeabilityOwnerStorage.sol';
-import 'https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/ILoyaltyPoints.sol';
+import "https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/UpgradeabilityProxy.sol";
+import "https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/UpgradeabilityOwnerStorage.sol";
+import "https://github.com/BilalWarraich/Loyalty-contract/blob/main/contracts/ILoyaltyPoints.sol";
 
 /**
  * @title OwnedUpgradeabilityProxy
